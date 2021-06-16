@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @serj-maks
-- 👀 I’m interested in mobile ... development, mobile UX/UI design, ethical haching and linux
-- 🌱 I’m currently learning ... java and android
+- 👋 Hi, I’m @serj-maks from Russia
+- 👀 I’m interested in ... mobile development, mobile UX/UI design, ethical haching, linux
+- 🌱 I’m currently learning ... java, android
 - 💞️ I’m looking to collaborate on ... any android devs
 - 📫 How to reach me ... sergeymaksimov1993@gmail.com
 
