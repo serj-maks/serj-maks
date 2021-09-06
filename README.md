@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergey Maksimov from Russia
-<!--- - 👀 I’m interested in ... ethical haching, cybersecurity, *nux os, open sourse software
+<!--- - 👀 I’m interested in ... ethical haching, cybersecurity, *nix os, open sourse software
 - 💞️ I’m looking to collaborate on ... anyone who intrested same things --->
 - 📫 How to reach me ... sergeymaksimov1993@gmail.com
 
