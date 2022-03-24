@@ -1,5 +1,3 @@
-- 📫 How to reach me ... sergeymaksimov1993@gmail.com
-
 <!---
 serj-maks/serj-maks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,7 +18,7 @@ You can click the Preview link to take a look at your changes.
       
 🌱 I’m currently learning **Jenkins** and mastering **Spring**
 
-📫 How to reach me **[telegram)](https://t.me/serjmaks)** or [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
+📫 How to reach me **[telegram](https://t.me/serjmaks)** or [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
     </td>
   </tr>
 </table>
