@@ -14,12 +14,12 @@
   </tr>
 </table>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntellijIDEA, Vim</h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
 
 <!---
 serj-maks/serj-maks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
