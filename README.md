@@ -9,17 +9,17 @@
       
 👨‍💻 I’m currently working hard :-)
       
-📫 How to reach me **[telegram](https://t.me/serjmaks)** or [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
+📫 How to reach me: [telegram](https://t.me/serjmaks) or [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
     </td>
   </tr>
 </table>
 
 <h3 align="center">Languages and Tools:</h3>
 
-<h4 align="center">Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntellijIDEA, Vim</h4>
+<h4 align="left">Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntellijIDEA, Vim</h4>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
 
 <!---
 serj-maks/serj-maks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
