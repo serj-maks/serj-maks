@@ -14,9 +14,9 @@
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntellijIDEA, Vim
+<h4 align="center">Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntellijIDEA, Vim</h4>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
