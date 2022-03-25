@@ -6,6 +6,8 @@
     <td>
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true" alt="serj-maks" /></p> </td>
     <td>
+
+📍❄ From Russia
       
 👨‍💻 I’m currently working hard :-)
       
