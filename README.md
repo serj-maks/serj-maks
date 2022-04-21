@@ -11,7 +11,7 @@
       
 👨‍💻 I’m currently working hard :-)
       
-📫 How to reach me: [telegram](https://t.me/serjmaks) or [e-mail](mailto:sergeymaksimov1993@gmail.com)
+📫 How to reach me: [telegram](https://t.me/serjmaks) or [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
     </td>
   </tr>
 </table>
