@@ -19,6 +19,8 @@
   </tr>
 </table>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmson&layout=compact&theme=radical)
+
 <h3 align="left">Skills:</h3>
 
 <h4 align="left">Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntelliJ IDEA, Vim</h4>
