@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Sergey Maksimov</h1>
-<h3 align="center">Java Backend Developer</h3>
+<h3 align="center">Java developer</h3>
 
 <table>
   <tr>
