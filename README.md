@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmson&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serj-maks&layout=compact&theme=radical)
 
 <h3 align="left">Skills:</h3>
 
