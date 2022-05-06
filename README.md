@@ -10,16 +10,16 @@
     </td>
     <td>
       
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serj-maks&layout=compact&theme=radical)
+    </td>
+  </tr>
+</table>
+
 ❄ From Russia
       
 👨‍💻 I’m currently working hard :-)
       
 📫 How to reach me: [telegram](https://t.me/serjmaks) or [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
-    </td>
-  </tr>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serj-maks&layout=compact&theme=radical)
 
 <h3 align="left">Skills:</h3>
 
