@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Sergey Maksimov</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Java Backend Developer</h3>
 
 <table>
   <tr>
@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 
 <h4 align="left">Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntelliJ IDEA, Vim</h4>
 
