@@ -26,7 +26,7 @@ Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntelliJ IDEA, Vim
   </tr>
 </table>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
 
 <!---
 serj-maks/serj-maks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
