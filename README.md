@@ -10,7 +10,7 @@ Java developer
 
 <h3 align="left">Skills:</h3>
 
-Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntelliJ IDEA, Vim
+Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, Tomcat, IntelliJ IDEA, Vim
 
 <table>
   <tr>
