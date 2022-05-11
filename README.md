@@ -17,9 +17,11 @@
 
 <h3 align="left">How to reach me:</h3> 
 
-<h4 align="left">[telegram](https://t.me/serjmaks)
+<h4 align="left">
+[telegram](https://t.me/serjmaks)
 
-[e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])</h4>
+[e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
+</h4>
 
 <h3 align="left">Skills:</h3>
 
