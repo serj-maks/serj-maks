@@ -23,8 +23,7 @@
 
 <h3 align="left">Skills:</h3>
 
-<h4 align="left">Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntelliJ IDEA, Vim</h4>
-
+Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntelliJ IDEA, Vim
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
 
