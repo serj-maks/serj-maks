@@ -1,5 +1,16 @@
 <h1 align="left">👋 Hi, I’m Sergey Maksimov</h1>
-<h3 align="left">Java developer</h3>
+
+<h3 align="left">Spec:</h3> 
+
+Java developer
+
+<h3 align="left">How to reach me:</h3> 
+
+[telegram](https://t.me/serjmaks), [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
+
+<h3 align="left">Skills:</h3>
+
+Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntelliJ IDEA, Vim
 
 <table>
   <tr>
@@ -14,14 +25,6 @@
     </td>
   </tr>
 </table>
-
-<h3 align="left">How to reach me:</h3> 
-
-[telegram](https://t.me/serjmaks), [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
-
-<h3 align="left">Skills:</h3>
-
-Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, IntelliJ IDEA, Vim
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
 
