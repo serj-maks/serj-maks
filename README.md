@@ -15,11 +15,7 @@
   </tr>
 </table>
 
-<h3 align="left">How to reach me:</h3>
-
-[telegram](https://t.me/serjmaks)
-
-[e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
+<h3 align="left">How to reach me:</h3> [telegram](https://t.me/serjmaks), [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
 
 <h3 align="left">Skills:</h3>
 
