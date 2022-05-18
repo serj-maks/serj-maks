@@ -12,6 +12,7 @@ Java developer
 
 Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, Tomcat, IntelliJ IDEA, Vim
 
+<!---
 <h3 align="left">GitHub stats:</h3>
 
 <table>
@@ -29,6 +30,7 @@ Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, Tomcat, IntelliJ IDEA, 
 </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
+--->
 
 <!---
 serj-maks/serj-maks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
