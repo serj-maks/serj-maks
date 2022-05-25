@@ -12,6 +12,8 @@ Java developer
 
 Java, Spring, Hibernate, JUnit, Lombok, Postgres, Maven, Tomcat, IntelliJ IDEA, Vim
 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 <!---
 <h3 align="left">GitHub stats:</h3>
 
