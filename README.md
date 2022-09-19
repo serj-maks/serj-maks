@@ -34,9 +34,9 @@
     <samp>
 <details>
   <summary>profile Stats</summary>
-  <br/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serj-maks&layout=compact&theme=radical)
+  <br/> 
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=radical"/>
+    <img alt="GitHub Stats"https://github-readme-stats.vercel.app/api/top-langs/?username=serj-maks&layout=compact&theme=radical"/>
   <br/>
 </details>
 
