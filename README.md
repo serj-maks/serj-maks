@@ -1,42 +1,43 @@
-<h1 align="left">👋 Hi, I’m Sergey Maksimov</h1>
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+            <b>
+             👋👋👋
+             <br>
+             <br>
+             Hi, 
+        <br>
+             I’m Sergey Maksimov, from Russia
+        <br>
+        <br>
+        <br>
+       
+<p align="right"><strong><samp>」</samp></strong></p>
 
-<h3 align="left">Spec:</h3> 
+<details align="center">
+<summary><samp>extend</samp></summary>
 
-Java developer
+<h2></h2><br>
+ 
+<p align="center">
+    <samp>
+      <a href="https://t.me/serjmaks" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Telegram-%23FF4500.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+      <a href="https://discord.com/users/431125732576722969" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a></a>
+      <a href="(mailto:sergeymaksimov1993@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">   
+      </a></a>
+      <h2></h2><br>
+    </samp>
+</p>
 
-<h3 align="left">How to reach me:</h3> 
+<p align="center">
+    <samp>
+<details>
+  <summary>profile Stats</summary>
+  <br/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=radical)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serj-maks&layout=compact&theme=radical)
+  <br/>
+</details>
 
-[telegram](https://t.me/serjmaks), [e-mail](mailto:sergeymaksimov1993@gmail.com?subject=[GitHub])
-
-<h3 align="left">Github stats:</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serj-maks&layout=compact&theme=radical)
-
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-<!---
-<h3 align="left">GitHub stats:</h3>
-
-<table>
-  <tr>
-    <td>
-      <p>
-        &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true" alt="serj-maks"/>
-      </p>
-    </td>
-    <td>
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serj-maks&layout=compact&theme=radical)
-    </td>
-  </tr>
-</table>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serj-maks" alt="serj-maks" /> </p>
---->
-
-<!---
-serj-maks/serj-maks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+~ serjmaks ~
