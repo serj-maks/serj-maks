@@ -35,7 +35,7 @@
 <details>
   <summary>profile stats</summary>
   <br/> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=nord)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=radical)
   <br/>
 </details>
 
