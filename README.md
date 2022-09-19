@@ -35,7 +35,7 @@
 <details>
   <summary>profile stats</summary>
   <br/> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=radical)
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serjmaks&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
   <br/>
 </details>
 
