@@ -33,10 +33,9 @@
 <p align="center">
     <samp>
 <details>
-  <summary>profile Stats</summary>
+  <summary>profile stats</summary>
   <br/> 
-    <img alt="GitHub Stats" src="src="https://github-readme-stats.vercel.app/apiusername=serjmaks&
-         show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&theme=nord)
   <br/>
 </details>
 
