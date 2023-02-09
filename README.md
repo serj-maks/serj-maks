@@ -34,6 +34,8 @@
 <details align="center">
 <summary><samp>profile stats</samp></summary>
 
+<h2></h2><br>
+    
 <p align="center">
     <samp>
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serjmaks&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
