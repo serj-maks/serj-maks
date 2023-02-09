@@ -45,4 +45,6 @@
 </p>
 </details>
 
+<p align="center">
 ~ serjmaks ~
+</p>
