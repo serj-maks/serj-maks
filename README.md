@@ -16,7 +16,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <details align="center">
-<summary><samp>extend</samp></summary>
+<summary><samp>how to reach me</samp></summary>
 
 <h2></h2><br>
  
@@ -32,13 +32,15 @@
 </details>
 
 <details align="center">
+<summary><samp>profile stats</samp></summary>
+
 <p align="center">
     <samp>
-<details>
-  <summary>profile stats</summary>
-  <br/> 
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serjmaks&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
-  <br/>
+    </a></a>
+    <h2></h2><br>
+  </samp>
+</p>
 </details>
 
 ~ serjmaks ~
