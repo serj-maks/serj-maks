@@ -29,7 +29,9 @@
       <h2></h2><br>
     </samp>
 </p>
+</details>
 
+<details align="center">
 <p align="center">
     <samp>
 <details>
