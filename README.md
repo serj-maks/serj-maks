@@ -15,7 +15,8 @@
        
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<details align="center">
+<!-- <details align="center">
+    
 <summary><samp>how to reach me</samp></summary>
 
 <h2></h2><br>
@@ -30,8 +31,10 @@
     </samp>
 </p>
 </details>
-
+ -->
+                
 <details align="center">
+    
 <summary><samp>profile stats</samp></summary>
 
 <h2></h2><br>
