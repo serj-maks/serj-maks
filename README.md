@@ -8,7 +8,7 @@
              <br>
              Hi, 
         <br>
-             I’m Sergey Maksimov, from Russia
+             I’m Sergey Maksimov
         <br>
         <br>
         <br>
