@@ -41,7 +41,7 @@
     
 <p align="center">
     <samp>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=nord"/>
     </a></a>
     <h2></h2><br>
   </samp>
