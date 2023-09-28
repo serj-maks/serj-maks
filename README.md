@@ -52,7 +52,7 @@
 ~ serjmaks ~
 </p>
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=D3Ext&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=nord"/><br><br>
-<a href="https://github.com/D3Ext">
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serj-maks&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=nord"/><br><br>
+<a href="https://github.com/serj-maks">
     <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=D3Ext&theme=nord&row=1"/>
 </a>
